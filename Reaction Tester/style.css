@@ -1,0 +1,12 @@
+			body{
+			
+				font-family:sans-serif;
+			
+			}
+			#shape{
+			
+				background-color:blue;
+				display:none;
+				position:relative;
+			
+			}
